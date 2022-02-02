@@ -1,1 +1,7 @@
 # AirBnb-Price-Prediction
+# In this project, it is aimed to make predict the price with data mining techniques using Airbnb datas. The most efficient classification and artificial intelligence algorithms to analyze the data will be selected and added to the report as a research.
+# This project consist of two stages; the preparation of the data and the application of the methods to the prepared data.
+# In the data preparation process, firstly the features will be used in the dataset have been selected. Then missing values has been filled and non-categorical features were categorized.
+# Classification was performed by applying K-Nearest Neighbors, Decision Trees and Artificial Neural Network algorithms to the prepared data.
+# As a result of the analysis and researches, the most proper algorithm for the dataset was selected and price prediction has been predicted with a high accuracy rate (0.91).
+# K Nearest Neighbor, Artificial Neural Network and Decision Tree algorithms applied in the project to make classification. For this reason, the target attribute named as "price" is also categorized. As a result of the tests, it has been observed that the estimated prices are within the specified range.
